@@ -1,0 +1,4 @@
+ccxt==4.3.82
+numpy>=1.23
+pandas>=2.0
+python-dotenv>=1.0.0
